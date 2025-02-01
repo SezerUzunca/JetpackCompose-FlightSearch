@@ -1,0 +1,34 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Flight Search</string>
+
+    <!-- Favorites Screen -->
+    <string name="no_favorites">No favorites yet!</string>
+    <string name="data_not_found">No data found.</string>
+
+    <!-- HomeScreen -->
+    <string name="search_airports_placeholder">Search Airports</string>
+    <string name="icon_search">Search Icon</string>
+    <string name="icon_mic">Mic Icon</string>
+    <string name="sample_query">Sample Query</string>
+
+    <!-- RoutesScreen -->
+    <string name="no_current_airport">No current airport found.</string>
+
+    <!-- Mock Data for Previews -->
+    <string name="mock_airport_lax">Los Angeles International Airport</string>
+    <string name="mock_airport_jfk">John F. Kennedy International Airport</string>
+    <string name="mock_airport_sfo">San Francisco International Airport</string>
+
+    <!-- Flight Route Item -->
+    <string name="label_departure">Depart</string>
+    <string name="label_destination">Arrive</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+
+    <!-- Separator -->
+    <string name="iata_name_separator"> - </string>
+
+    <!-- Error Messages -->
+    <string name="error_occurred">An error occurred: %1$s</string>
+</resources>
